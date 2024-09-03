@@ -8,7 +8,7 @@ Gen AI models help in overcoming these limitations and are also faster.
 
 Apart from reading text, Gen AI models also use NLP to answer user queries, thereby doing the job of both ‘text extraction’  and ‘specific data retrieval’.
 
-***Model Used***
+***MODEL USED***
 
 **Gemini-1.5-flash'**
 
